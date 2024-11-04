@@ -22,7 +22,7 @@ export default function Page() {
         </div>
       </div>
       <div className="h-full bg-black hidden lg:flex items-center justify-center">
-        <Image src="/icons8-chase-bank-240.svg" height={100} width={100} alt="logo" />
+        <Image src="/logo-240.svg" height={100} width={100} alt="logo" />
       </div>
     </div>
   );
